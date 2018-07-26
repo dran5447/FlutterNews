@@ -2,6 +2,8 @@
 
 Flutter app demonstrating how to do http request, layout, etc
 
+![Demo GIF](https://media.giphy.com/media/2uxZc2Vxmh6inpmoJF/giphy.gif)
+
 ## Getting Started
 
 To run the app:
